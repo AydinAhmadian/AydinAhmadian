@@ -8,7 +8,6 @@ Building today, learning for the future.
 ## 🧠 About Me
 - Focused on learning Python by building real projects
 - Interested in problem solving and clean code
-- Currently working on Tkinter projects
 
 ---
 
