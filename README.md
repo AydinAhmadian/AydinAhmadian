@@ -1,4 +1,5 @@
 # Hi, I'm Aydin 👋
+# I'm 18 years old
 
 Becoming a Python developer.  
 Building today, learning for the future.
